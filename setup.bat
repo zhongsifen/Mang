@@ -1,2 +1,2 @@
 @echo off
-set PYTHONPATH=C:\local\Work\facenet\src
+set PYTHONPATH=C:\Users\zhongsifen\Work\facenet\src
